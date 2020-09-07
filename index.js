@@ -163,7 +163,7 @@ function getSortValue(zone) {
 }
 
 
-class WeatherForecast extends q.DeskitopApp {
+class WeatherForecast extends q.DesktopApp {
   constructor() {
     super();
     this.zoneName = null;
