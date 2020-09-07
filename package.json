@@ -1,0 +1,23 @@
+{
+  "name": "keyboard-build-checker",
+  "version": "1.0.0",
+  "description": "A plugin for das keyboard that indicates if your build status in Azure devops has changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenknoester/keyboard-build-checker.git"
+  },
+  "keywords": [
+    "daskeyboard",
+    "devops"
+  ],
+  "author": "Jeroen Knoester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenknoester/keyboard-build-checker/issues"
+  },
+  "homepage": "https://github.com/jeroenknoester/keyboard-build-checker#readme"
+}
