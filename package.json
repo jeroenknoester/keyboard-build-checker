@@ -1,8 +1,8 @@
 {
   "name": "keyboard-build-checker",
   "displayName": "Keyboard build checker",
-  "description": "Displays weather forecast.",
-  "longDescription": "Be aware of the upcoming storm, ice age or heat wave coming to your place with the Q Weather applet.",
+  "description": "Checks the status of your builds in Azure devops.",
+  "longDescription": "Checks the status of your builds in Azure devops.",
   "version": "1.0.0",
   "publisher": "Jeroen Knoester",
   "officialProductName": "Keyboard build checker",
